@@ -182,3 +182,5 @@ EriiX 采用事件驱动架构，通过 `EventBus` 实现系统间解耦。
 
 ## 📄 License
 本项目基于 [MIT](LICENSE) 许可证开源。
+
+![Alt](https://repobeats.axiom.co/api/embed/12134436f49b0440db57c5d06c901307da82bdce.svg "Repobeats analytics image")
