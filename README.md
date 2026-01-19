@@ -10,6 +10,8 @@
 [![H2](https://img.shields.io/badge/H2-Database-0066CC?style=for-the-badge)](https://www.h2database.com/)
 [![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](LICENSE)
 
+[![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/spcookie/EriiX)
+
 [🚀 Features](#-features) • [🛠️ Tech Stack](#-tech-stack) • [🏁 Getting Started](#-getting-started) • [📦 Building & Running](#-building--running)
 
 </div>
